@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>b248b39f-4446-4223-881b-82be488e8a95</ProjectGuid>
+    <ProjectGuid>{B5B635D5-064E-467C-A3E5-A2D852CD4FF7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Dynamic_Array</RootNamespace>
-    <AssemblyName>Dynamic_Array</AssemblyName>
+    <AssemblyName>Dynamic Array</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

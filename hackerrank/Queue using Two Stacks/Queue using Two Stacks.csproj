@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>db843611-85bd-4b44-87fa-09676c00e461</ProjectGuid>
+    <ProjectGuid>{7213B175-36C6-4ABD-A0BE-E5DD6A1B3A2E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Queue_using_Two_Stacks</RootNamespace>
-    <AssemblyName>Queue_using_Two_Stacks</AssemblyName>
+    <AssemblyName>Queue using Two Stacks</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

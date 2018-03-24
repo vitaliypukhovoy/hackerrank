@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>067a26b1-52c5-4d37-a416-391f46eb0977</ProjectGuid>
+    <ProjectGuid>{94FFC193-4272-4511-8D75-98AAC0C6EA55}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Arrays__DS</RootNamespace>
-    <AssemblyName>Arrays__DS</AssemblyName>
+    <AssemblyName>Arrays -DS</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

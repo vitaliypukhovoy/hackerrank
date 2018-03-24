@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>f605a919-d5d4-4b24-a192-07ec1ab8a778</ProjectGuid>
+    <ProjectGuid>{AFB7F944-CA62-442F-871E-F2F54844AF57}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_2D_Array___DS</RootNamespace>
-    <AssemblyName>_2D_Array___DS</AssemblyName>
+    <AssemblyName>2D Array - DS</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

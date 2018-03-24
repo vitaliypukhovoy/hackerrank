@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>4bc2140b-89e7-4178-afd9-638ecbb4f423</ProjectGuid>
+    <ProjectGuid>{CE43DFAA-00CD-44EB-A380-4670F96484FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Sparse_Arrays</RootNamespace>
-    <AssemblyName>Sparse_Arrays</AssemblyName>
+    <AssemblyName>Sparse Arrays</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

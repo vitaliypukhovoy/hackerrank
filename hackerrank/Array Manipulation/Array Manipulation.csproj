@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>9027c59e-6030-4c1a-b085-02ac496718f9</ProjectGuid>
+    <ProjectGuid>{43FE95F9-FD02-4DAB-B049-A2D437FBD1C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Array_Manipulation</RootNamespace>
-    <AssemblyName>Array_Manipulation</AssemblyName>
+    <AssemblyName>Array Manipulation</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
